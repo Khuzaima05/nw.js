@@ -30,7 +30,7 @@ It was created in the Intel Open Source Technology Center.
  * Linux: [32bit](https://dl.nwjs.io/v0.41.2/nwjs-v0.41.2-linux-ia32.tar.gz) / [64bit](https://dl.nwjs.io/v0.41.2/nwjs-v0.41.2-linux-x64.tar.gz)
  * Windows: [32bit](https://dl.nwjs.io/v0.41.2/nwjs-v0.41.2-win-ia32.zip) / [64bit](https://dl.nwjs.io/v0.41.2/nwjs-v0.41.2-win-x64.zip)
  * Mac 10.10+: [64bit](https://dl.nwjs.io/v0.41.2/nwjs-v0.41.2-osx-x64.zip)
- * Use [Legacy build](http://nwjs.io/downloads/) for Win XP and early OSX.
+ * Use [Legacy build](http://nwjs.io/downloads/)   for Win XP and early OSX.
 
 * **latest nightly build from git tip**: https://dl.nwjs.io/live-build/
 
